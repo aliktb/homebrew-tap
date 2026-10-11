@@ -4,25 +4,25 @@ class Spongecase < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/aliktb/spongecase/releases/download/v0.2.0/spongecase_darwin_arm64"
-      sha256 "340b2f95a76bd2017a427f0d4002e824b5764565e5877f9f130571ddc684f305"
+      url "https://github.com/aliktb/spongecase/releases/download/v0.2.2/spongecase_darwin_arm64"
+      sha256 "6f21afb405ed75bbbd01efa651d7b3efbb07f173431d74443c41391ade6d6432"
     end
 
     on_intel do
-      url "https://github.com/aliktb/spongecase/releases/download/v0.2.0/spongecase_darwin_amd64"
-      sha256 "652f399b0cb9683e454b6e94f7be81cb5ae8a5a40fb92ee01dce91b4adb669cb"
+      url "https://github.com/aliktb/spongecase/releases/download/v0.2.2/spongecase_darwin_amd64"
+      sha256 "cd0eb3c48155c6bdbb261c50b93ad405fe78ab02178bc011996fc1069671d82d"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/aliktb/spongecase/releases/download/v0.2.0/spongecase_linux_arm64"
-      sha256 "ab4321be108405c72fab03f1238452038a1a53a9448d99476e7c5ee4de223a60"
+      url "https://github.com/aliktb/spongecase/releases/download/v0.2.2/spongecase_linux_arm64"
+      sha256 "70a2de800543003dd3bd5d2a175d4c08bf6776e6475a161b7b46f39a920a92fb"
     end
 
     on_intel do
-      url "https://github.com/aliktb/spongecase/releases/download/v0.2.0/spongecase_linux_amd64"
-      sha256 "7a8cf72fe704228fc759fac796716f8d7606538c35e347d9a2bf933d34b21700"
+      url "https://github.com/aliktb/spongecase/releases/download/v0.2.2/spongecase_linux_amd64"
+      sha256 "bb3f9bddcf1d7d1ca9a49a00a360fa3a3a6174514c67fe52dae3067a5cf7b32e"
     end
   end
 
